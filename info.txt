@@ -22,4 +22,7 @@ commit #18 squash local 1
 commit #19 squash local 2
 commit #20 squash local 3
 
+commit #21 cherry pick 1
+commit #22 cherry pick 2
+
 no more commit after this line
